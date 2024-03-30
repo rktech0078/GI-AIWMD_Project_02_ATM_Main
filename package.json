@@ -1,0 +1,26 @@
+{
+  "name": "rktech_atm_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rktech0078/GI-AIWMD_Project_02_ATM_Main.git"
+  },
+  "author": "Rafay Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rktech0078/GI-AIWMD_Project_02_ATM_Main/issues"
+  },
+  "homepage": "https://github.com/rktech0078/GI-AIWMD_Project_02_ATM_Main#readme",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
